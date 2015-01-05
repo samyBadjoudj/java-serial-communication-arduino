@@ -5,7 +5,7 @@ import com.samy.serial.communication.reader.SimplePrinter;
 
 import javax.comm.CommPortIdentifier;
 import java.util.Enumeration;
-
+//Samy Badjoudj
 public class Main  {
 
 
