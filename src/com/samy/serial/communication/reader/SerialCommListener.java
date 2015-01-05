@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by bibi on 04.01.15.
+ * Created by Samy Badjoudj on 04.01.15.
  */
 public class SerialCommListener implements SerialPortEventListener, Runnable {
 
